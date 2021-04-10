@@ -15,7 +15,7 @@
 </span>
 
 ### 😄 Current activity
-- 🌱 I’m currently learning React, Redux, Redux-saga
+- 🌱 I’m currently ts
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
