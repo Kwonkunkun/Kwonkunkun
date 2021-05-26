@@ -20,9 +20,8 @@
 <br/>
   
 ### My Stats 🙂 
+![Kwonkunkun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonkunkun&show_icons=true&theme=tokyonight)
 
-[![Kwonkunkun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonkunkun)](https://github.com/anuraghazra/github-readme-stats)
-  
  <br/>
   
 ### 😄 Current activity
