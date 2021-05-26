@@ -1,10 +1,11 @@
-### Hi there 👋 I'm Kwon
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonkunkun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi there 👋 I'm Kwon&fontSize=80" />
 
 <!-- - 🔭 I’m currently working on ... -->
+
+
 ### ⚒ Tech Stack
-<span>
+
+<div>
 <img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -14,8 +15,16 @@
 <img src="https://img.shields.io/badge/Redux-blue?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReduxSaga-purple?style=flat-square&logo=Redux-Saga&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white"/>
-</span>
+</div>
 
+<br/>
+  
+### My Stats 🙂 
+
+[![Kwonkunkun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonkunkun)](https://github.com/anuraghazra/github-readme-stats)
+  
+ <br/>
+  
 ### 😄 Current activity
 - 🌱 I’m currently ts
 <!--
