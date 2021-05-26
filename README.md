@@ -2,10 +2,13 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 
+<div align="center">
 
-### ⚒ Tech Stack
+  ### ⚒ Tech Stack
 
-<div>
+</div>
+
+<div align="center">
 <img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -19,13 +22,21 @@
 
 <br/>
   
+  <div align="center">
+  
 ### My Stats 🙂 
-![Kwonkunkun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonkunkun&show_icons=true&theme=tokyonight)
+![Kwonkunkun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonkunkun&hide=stars&show_icons=true&theme=dark)
 
+  </div>
+  
  <br/>
   
+  <div align="center">
+
 ### 😄 Current activity
-- 🌱 I’m currently learning ts
+🌱 I’m currently learning ts
+    </div>
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
