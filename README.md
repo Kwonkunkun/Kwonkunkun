@@ -26,7 +26,7 @@
  <br/>
   
 ### 😄 Current activity
-- 🌱 I’m currently ts
+- 🌱 I’m currently learning ts
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
