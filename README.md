@@ -36,7 +36,7 @@
   <div align="center">
 
 ### 😄 Current activity
-🌱 I’m currently learning ts
+🌱 I’m currently learning next.js
     </div>
 
 <!--
