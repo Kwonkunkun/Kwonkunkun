@@ -13,12 +13,17 @@
 <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=Typescript&logoColor=white"/>
-    <br/>
 <img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+    <br/>
 <img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-blue?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReduxSaga-purple?style=flat-square&logo=Redux-Saga&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AntDesign-blue?style=flat-square&logo=AntDesign&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white"/>
 </div>
 
@@ -36,7 +41,7 @@
   <div align="center">
 
 ### 😄 Current activity
-🌱 I’m currently learning next.js, react-query, antd
+🌱 I’m currently learning ios, swift, rxSwift
     </div>
 
 <!--
