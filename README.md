@@ -41,7 +41,7 @@
   <div align="center">
 
 ### 😄 Current activity
-🌱 I’m currently learning ios, swift, rxSwift
+🌱 I’m currently learning js
     </div>
 
 <!--
