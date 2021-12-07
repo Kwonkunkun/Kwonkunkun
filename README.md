@@ -41,7 +41,7 @@
   <div align="center">
 
 ### 😄 Current activity
-🌱 I’m currently learning js
+🌱 I’m currently learning rn
     </div>
 
 <!--
