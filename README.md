@@ -24,7 +24,6 @@
       <img src="https://img.shields.io/badge/AntDesign-blue?style=flat-square&logo=AntDesign&logoColor=white"/>
           <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
         <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white"/>
   
 </div>
 
