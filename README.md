@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi there 👋 I'm Kwon&fontSize=60" />
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there%20👋%20I'm%20Kwon&fontSize=60" />
 <!-- - 🔭 I’m currently working on ... -->
 
 <div align="center">
