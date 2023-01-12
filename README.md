@@ -30,11 +30,6 @@
   
   <div align="center">
   
-### My Stats 🙂 
-  [![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId=9762904)](https://slusy.io/profile/9762904?sapzil_guide=true)
-
-  
-<br/>
   
 ![Kwonkunkun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonkunkun&hide=stars&show_icons=true&theme=dark)
   </div>
