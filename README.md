@@ -29,9 +29,9 @@
 <br/>
   
   <div align="center">
-  
-  
-![Kwonkunkun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonkunkun&hide=stars&show_icons=true&theme=dark)
+
+
+![Kwonkunkun's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kwonkunkun&hide=stars&show_icons=true&theme=dark)
   </div>
   
  <br/>
