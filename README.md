@@ -39,7 +39,7 @@
   <div align="center">
 
 ### 😄 Current activity
-🌱 I’m currently learning animation
+🌱 I’m currently learning design pattern!
     </div>
     
       
