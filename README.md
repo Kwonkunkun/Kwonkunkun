@@ -28,20 +28,9 @@
 
 <br/>
   
-  <div align="center">
-
-
-![Kwonkunkun's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kwonkunkun&hide=stars&show_icons=true&theme=dark)
-  </div>
-  
  <br/>
   
   <div align="center">
-
-### 😄 Current activity
-🌱 I’m currently learning design pattern!
-    </div>
-    
       
 
 <!--
